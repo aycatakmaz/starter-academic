@@ -74,6 +74,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Master’s student in Electrical Engineering and Information Technology at ETH Zurich. My current research interests are computer vision, machine learning, image and video processing and augmented reality.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have undertook several research projects at the Computer Vision and Graphics Lab (CVG) and Computer Vision Lab (CVL) at ETH Zürich. I completed my Master's thesis in the field of unsupervised, monocular depth estimation in non-rigid scenes, under the supervision of Dr. Danda Pani Paudel, Dr. Thomas Probst, Dr. Ajad Chhatkuli, and Prof. Luc Van Gool.
+
+Prior to my Master's studies, I was an undergraduate student in Electrical and Electronics Engineering at Bilkent University in Ankara, Turkey. I also had the opportunity to visit École Polytechnique Fédérale de Lausanne (EPFL) at Lausanne, Switzerland, for my exchange studies.
